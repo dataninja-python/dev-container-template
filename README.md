@@ -1,14 +1,25 @@
 # dev-container-template
 This project tracks my gradual transition from basic to advanced using development containers, build scripts, etc. Follow along and see if this helps you.
 
-# what
-
-# who
-
-# why
+# PROBLEM STATEMENT
 
 
-# how
+
+
+
+
+
+
+
+
+# UPDATES
+
+- 11/5/2023 :: created a new bash script to create a development container and adding it to this project.
+
+
+
+
+
 
 1. I started by researching best practices to setup python projects.
 2. I selected a directory, module, and file structure based on inspiration from several sources.
